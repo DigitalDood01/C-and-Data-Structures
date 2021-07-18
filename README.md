@@ -1,8 +1,8 @@
-#h1 **WELCOME**
+# **WELCOME**
 
 This repository consists of programs on various topics like pointers, data structures written on C-language. 
 
-##h2  **Programs related to Data Structures are as follows**
+##  **Programs related to Data Structures are as follows**
 1. Insertion of a node in linked list before/after the head node.
 2. Deletion of a node in a linked list
 3. Reversing a linked link using recursion
